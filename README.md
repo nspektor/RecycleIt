@@ -1,3 +1,6 @@
 # imposter-it README!
 
-##Mission statement:
+## Mission statement:
+```
+Our mission is...
+```
